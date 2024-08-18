@@ -1,0 +1,10 @@
+{
+    "name": "wedding-website",
+    "version": "1.0.0",
+    "description": "A wedding website project",
+    "scripts": {
+      "build": "echo 'No build step required'"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
